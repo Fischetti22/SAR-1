@@ -1,0 +1,8 @@
+# Godot 4 project cache and imports (do NOT commit)
+**/.godot/
+
+# Archives and exports not meant for source control
+*.zip
+
+# OS junk
+Thumbs.db
